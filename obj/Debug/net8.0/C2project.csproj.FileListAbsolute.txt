@@ -1,0 +1,14 @@
+D:\Workspace\ConsoleApp1\C2project\bin\Debug\net8.0\C2project.exe
+D:\Workspace\ConsoleApp1\C2project\bin\Debug\net8.0\C2project.deps.json
+D:\Workspace\ConsoleApp1\C2project\bin\Debug\net8.0\C2project.runtimeconfig.json
+D:\Workspace\ConsoleApp1\C2project\bin\Debug\net8.0\C2project.dll
+D:\Workspace\ConsoleApp1\C2project\bin\Debug\net8.0\C2project.pdb
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.AssemblyInfoInputs.cache
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.AssemblyInfo.cs
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.csproj.CoreCompileInputs.cache
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.dll
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\refint\C2project.dll
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.pdb
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\C2project.genruntimeconfig.cache
+D:\Workspace\ConsoleApp1\C2project\obj\Debug\net8.0\ref\C2project.dll
